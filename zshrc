@@ -93,5 +93,4 @@
  93 alias v="vim"
  94 alias agi="apt-get install"
  95 alias cl="clear"
-
-
+ 96 alias gs="git status"
