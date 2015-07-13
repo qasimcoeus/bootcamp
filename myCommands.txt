@@ -1,7 +1,7 @@
 Commands for Shell
 
 1. Keyboard Shortcuts
-	.Up/Down arrows
+	.Up/Down arrows	
 		used to move through last executed commands
 	.CTRL+Left/CTR+Right
 		Used for jumping between the arguments of a command
